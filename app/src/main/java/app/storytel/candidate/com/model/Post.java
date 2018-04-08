@@ -1,4 +1,4 @@
-package app.storytel.candidate.com;
+package app.storytel.candidate.com.model;
 
 /**
  * Created by finne on 14/12/2017.
